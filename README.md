@@ -14,6 +14,10 @@ A prototype of a smart cane using ultrasonic sensing to detect obstacles and ale
 ## Technology behind design
 -Raspberry Pi ultrasonic motion detector: a DIY security / automation device created by connecting a sensor to a Raspberry Pi's GPIO pins
 
--sensor is programmed to detect movements of objects within the projected zone by measuring distance changes overtime, sending vibrations to the handle of the stick
+-HC-SR04 ultrasonic sensor: programmed to detect movements of objects within the projected zone by measuring distance changes overtime, sending vibrations to the handle of the stick
+
+-Vibration motor
+
+-Push button
 
 ## Testing
